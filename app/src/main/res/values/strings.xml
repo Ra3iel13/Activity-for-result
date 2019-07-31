@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Activity ofr result</string>
+    <string name="activity_main">btn_result</string>
+    <string name="btn_go">btn_go</string>
+    <string name="name">name</string>
+</resources>
